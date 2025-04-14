@@ -26,7 +26,11 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"FxeL7Y-WAA47vOO.jpg_large","CopyToMask":-1,"filePath":"datafiles","name":"FxeL7Y-WAA47vOO.jpg_large","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"image_XW_RmQRG_1744086595620_512.webp","CopyToMask":-1,"filePath":"datafiles","name":"image_XW_RmQRG_1744086595620_512.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"image_YrfS_koA_1744086316277_512.webp","CopyToMask":-1,"filePath":"datafiles","name":"image_YrfS_koA_1744086316277_512.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -35,7 +39,10 @@
   "name":"DUNK DYNASTY",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spacecourts_spr","path":"sprites/spacecourts_spr/spacecourts_spr.yy",},},
     {"id":{"name":"spr_court","path":"sprites/spr_court/spr_court.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
