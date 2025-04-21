@@ -39,6 +39,7 @@
   "name":"DUNK DYNASTY",
   "resources":[
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spacecourts_spr","path":"sprites/spacecourts_spr/spacecourts_spr.yy",},},
     {"id":{"name":"Spr_basketball_court","path":"sprites/Spr_basketball_court/Spr_basketball_court.yy",},},
@@ -53,6 +54,8 @@
     {"id":{"name":"Spr_road","path":"sprites/Spr_road/Spr_road.yy",},},
     {"id":{"name":"Spr_up","path":"sprites/Spr_up/Spr_up.yy",},},
     {"id":{"name":"Spri_space","path":"sprites/Spri_space/Spri_space.yy",},},
+    {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
+    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
     {"id":{"name":"spacecourts_tile","path":"tilesets/spacecourts_tile/spacecourts_tile.yy",},},
     {"id":{"name":"TileSet_backround_deser","path":"tilesets/TileSet_backround_deser/TileSet_backround_deser.yy",},},
     {"id":{"name":"TileSet_desert","path":"tilesets/TileSet_desert/TileSet_desert.yy",},},
