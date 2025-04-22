@@ -18,3 +18,16 @@ direction = 180;
 /// @DnDHash : 360E09FD
 /// @DnDArgument : "speed" "4"
 speed = 4;
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1CEAC43D
+/// @DnDArgument : "var" "global.score"
+/// @DnDArgument : "value" "20"
+if(global.score == 20){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 06262010
+	/// @DnDParent : 1CEAC43D
+	/// @DnDArgument : "room" "jumpscare"
+	/// @DnDSaveInfo : "room" "jumpscare"
+	room_goto(jumpscare);}
