@@ -23,9 +23,11 @@ speed = 4;
 /// @DnDVersion : 1
 /// @DnDHash : 7DA7C88E
 /// @DnDArgument : "var" "global.score"
-/// @DnDArgument : "value" "20"
-if(global.score == 20){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDArgument : "value" "16"
+if(global.score == 16){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 5712E5E2
 	/// @DnDParent : 7DA7C88E
-	room_goto(noone);}
+	/// @DnDArgument : "room" "jumpscare"
+	/// @DnDSaveInfo : "room" "jumpscare"
+	room_goto(jumpscare);}

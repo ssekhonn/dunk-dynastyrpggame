@@ -23,8 +23,8 @@ speed = 4;
 /// @DnDVersion : 1
 /// @DnDHash : 1CEAC43D
 /// @DnDArgument : "var" "global.score"
-/// @DnDArgument : "value" "20"
-if(global.score == 20){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDArgument : "value" "16"
+if(global.score == 16){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 06262010
 	/// @DnDParent : 1CEAC43D
