@@ -24,10 +24,13 @@ speed = 4;
 /// @DnDHash : 3D56D81A
 /// @DnDArgument : "var" "global.score"
 /// @DnDArgument : "value" "16"
-if(global.score == 16){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+if(global.score == 16)
+{
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 5DE20625
 	/// @DnDParent : 3D56D81A
 	/// @DnDArgument : "room" "jumpscare"
 	/// @DnDSaveInfo : "room" "jumpscare"
-	room_goto(jumpscare);}
+	room_goto(jumpscare);
+}
